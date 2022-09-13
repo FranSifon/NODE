@@ -1,1 +1,2 @@
-console.log("Este es mi proyecto de NODE.js ");
+const array = [1, 2, 3, 4, 5];
+array.map((e) =>
